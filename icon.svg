@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect x="56" y="56" width="912" height="912" rx="206" fill="#000000"/>
+  <g fill="#f0f0e6">
+    <rect x="172" y="252" width="88" height="88"/>
+    <rect x="280" y="252" width="88" height="88"/>
+    <rect x="388" y="252" width="88" height="88"/>
+    <rect x="388" y="360" width="88" height="88"/>
+    <rect x="172" y="468" width="88" height="88"/>
+    <rect x="280" y="468" width="88" height="88"/>
+    <rect x="388" y="468" width="88" height="88"/>
+    <rect x="172" y="576" width="88" height="88"/>
+    <rect x="172" y="684" width="88" height="88"/>
+    <rect x="280" y="684" width="88" height="88"/>
+    <rect x="388" y="684" width="88" height="88"/>
+    <rect x="548" y="252" width="88" height="88"/>
+    <rect x="656" y="252" width="88" height="88"/>
+    <rect x="764" y="252" width="88" height="88"/>
+    <rect x="548" y="360" width="88" height="88"/>
+    <rect x="548" y="468" width="88" height="88"/>
+    <rect x="656" y="468" width="88" height="88"/>
+    <rect x="764" y="468" width="88" height="88"/>
+    <rect x="764" y="576" width="88" height="88"/>
+    <rect x="548" y="684" width="88" height="88"/>
+    <rect x="656" y="684" width="88" height="88"/>
+    <rect x="764" y="684" width="88" height="88"/>
+  </g>
+</svg>
